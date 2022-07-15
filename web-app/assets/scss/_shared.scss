@@ -1,0 +1,10 @@
+$mainCls: 'at';
+$fontSize: 13px;
+
+$fontMain: "Sofia", sans-serif;
+* {
+  font-family: $fontMain;
+  & body {
+    font-family: $fontMain;
+  }
+}
