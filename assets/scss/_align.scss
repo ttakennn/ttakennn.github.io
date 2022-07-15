@@ -1,0 +1,27 @@
+.logo-header {
+  display: flex;
+  align-items: flex-start;
+  float: right;
+}
+
+.at-fw-b {
+  font-weight: bold;
+}
+
+.at-fs-lg {
+  font-size: larger;
+}
+
+.at-align-end {
+  align-content: flex-end;
+  align-items: flex-end;
+  text-align: end;
+}
+
+.at-mr-10 {
+  margin-right: 10px;
+}
+
+.at-container-fluid {
+  padding: 0 10%;
+}
